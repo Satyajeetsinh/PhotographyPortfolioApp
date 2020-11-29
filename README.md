@@ -1,1 +1,1 @@
-# Photography-Portfolio-App
+# Photography Portfolio App
