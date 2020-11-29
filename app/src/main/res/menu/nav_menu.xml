@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/navAddPhotos"
+                android:icon="@drawable/navaddphotologo"
+                android:title="Add Photos" />
+            <item
+                android:id="@+id/navEditProfile"
+                android:icon="@drawable/naveditprofilelogo"
+                android:title="Edit Profile" />
+            <item
+                android:id="@+id/navProfile"
+                android:icon="@drawable/navprofilelogo"
+                android:title="Profile" />
+        </menu>
+    </item>
+    <item android:title="Support">
+        <menu>
+
+            <item
+                android:id="@+id/navRateUs"
+                android:icon="@drawable/navrateuslogo"
+                android:title="Rate us" />
+            <item
+                android:id="@+id/navShareApp"
+                android:icon="@drawable/navsharelogo"
+                android:title="Share app" />
+        </menu>
+
+    </item>
+    <item android:title="Logout">
+        <menu>
+
+            <item
+                android:id="@+id/navLogOut"
+                android:icon="@drawable/navlogoutlogo"
+                android:title="Logout" />
+        </menu>
+
+    </item>
+
+</menu>
